@@ -2,7 +2,7 @@
     "manufacturer": "DPB",
     "keyboard_name": "Ferris sweep",
     "maintainer": "@pierrec83",
-    "bootloader": "caterina",
+    "bootloader": "lufa-dfu",
     "bootmagic": {
         "enabled": true,
         "matrix": [0, 0]
